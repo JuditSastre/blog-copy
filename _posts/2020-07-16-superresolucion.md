@@ -22,7 +22,7 @@ Más de 150 años después, en 2014, [Stefan Hell](https://www.nobelprize.org/pr
 
 Es tan bonito lo que consiguieron Hell, Betzig y Moerner… No solo abrieron un mundo nuevo hasta ahora imposible de ver, sino que rompieron los límites de lo que creíamos posible. Fijaos.
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-07-17-superresolucion/imagen_top.jpg" width="400px">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-07-17-superresolucion/imagen_top.jpg" style="width:400px">
 	<figcaption> Imagen superresolutiva de neuronas hipocampales en las que las proteínas actina (fuego), map2 (azul) y neurofascina (cian) han sido marcadas con fluoróforos. Fuente: <a href="http://www.neurocytolab.org/" target="_blank">NeuroCyto Lab</a>.</figcaption>
 </figure>{: .align-center}
 ¿Qué narices significa el postulado de Abbe? Dejadnos dar un pequeño rodeo, solo serán un par de conceptos físicos.
