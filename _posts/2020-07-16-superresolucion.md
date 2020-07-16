@@ -6,7 +6,6 @@ header:
   og_image: /assets/images/posts/2020-05-17-superresolucion/comparison.jpg
 categories:
   - Viaje al centro de la ciencia
-published: true
 comments: true
 author_profile: true
 tags:
@@ -14,6 +13,7 @@ tags:
   - Superresolución
   - STED
   - SMLM
+date: 2020-07-17 15:30:00 +0200
 --- 
 <style>
 img {
@@ -23,9 +23,9 @@ img {
 }
 </style>
 
-A finales del siglo XIX, el físico alemán Ernst Abbe postuló que “es imposible discernir dos elementos más cercanos entre sí que la mitad de la <a style="color:lightslategray" href="https://juditsastre.github.io/blog-copy/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">longitud de onda</a> de la luz empleada”.  Y durante muchos años, así fue. Pero como os imaginaréis, los biólogos necesitaban ver las estructuras más finas de sus células y a los físicos no les gustaba eso de que la naturaleza les impusiera un límite —¡¿Quién se cree que es?!, decían.
+A finales del siglo XIX, el físico alemán Ernst Abbe postuló que “es imposible discernir dos elementos más cercanos entre sí que la mitad de la <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">longitud de onda</a> de la luz empleada”.  Y durante muchos años, así fue. Pero como os imaginaréis, los biólogos necesitaban ver las estructuras más finas de sus células y a los físicos no les gustaba eso de que la naturaleza les impusiera un límite —¡¿Quién se cree que es?!, decían.
 
-Más de 150 años después, en 2014, [Stefan Hell](https://www.nobelprize.org/prizes/chemistry/2014/hell/biographical/){:target="_blank"}, [Robert Eric Betzig](https://www.nobelprize.org/prizes/chemistry/2014/betzig/biographical/){:target="_blank"} y [William E. Moerner](https://www.nobelprize.org/prizes/chemistry/2014/moerner/biographical/){:target="_blank"} recibieron el premio Nobel de Química por “el desarrollo de la microscopía de fluorescencia de superresolución”, demostrando que podíamos ver moléculas sin tener *demasiado* en cuenta el límite de Abbe usando microscopía óptica. ¡Abbe ha muerto, larga vida a la <a style="color:lightslategray" href="https://juditsastre.github.io/blog-copy/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">nanoscopía</a>!
+Más de 150 años después, en 2014, [Stefan Hell](https://www.nobelprize.org/prizes/chemistry/2014/hell/biographical/){:target="_blank"}, [Robert Eric Betzig](https://www.nobelprize.org/prizes/chemistry/2014/betzig/biographical/){:target="_blank"} y [William E. Moerner](https://www.nobelprize.org/prizes/chemistry/2014/moerner/biographical/){:target="_blank"} recibieron el premio Nobel de Química por “el desarrollo de la microscopía de fluorescencia de superresolución”, demostrando que podíamos ver moléculas sin tener *demasiado* en cuenta el límite de Abbe usando microscopía óptica. ¡Abbe ha muerto, larga vida a la <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">nanoscopía</a>!
 
 Es tan bonito lo que consiguieron Hell, Betzig y Moerner… No solo abrieron un mundo nuevo hasta ahora imposible de ver, sino que rompieron los límites de lo que creíamos posible. Fijaos.
 <figure>
@@ -34,7 +34,7 @@ Es tan bonito lo que consiguieron Hell, Betzig y Moerner… No solo abrieron un 
 </figure>
 ¿Qué narices significa el postulado de Abbe? Dejadnos dar un pequeño rodeo, solo serán un par de conceptos físicos.
 
-Cuando visualizamos un objeto más pequeño que la longitud de onda de la luz que utilizamos, la imagen que se forma es más grande que el tamaño real del objeto: se forma un “halo”. Esto sucede porque la luz cambia de dirección al chocar con los bordes del objetivo del microscopio y la partícula, provocando que el <a style="color:lightslategray" href="https://juditsastre.github.io/blog-copy/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">frente de onda</a> se extienda. Este fenómeno se conoce como difracción.
+Cuando visualizamos un objeto más pequeño que la longitud de onda de la luz que utilizamos, la imagen que se forma es más grande que el tamaño real del objeto: se forma un “halo”. Esto sucede porque la luz cambia de dirección al chocar con los bordes del objetivo del microscopio y la partícula, provocando que el <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">frente de onda</a> se extienda. Este fenómeno se conoce como difracción.
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-07-17-superresolucion/combined2.gif"/>
 	<figcaption> <b>Izquierda</b>:Patrón de difracción. El punto central se conoce como Disco de Airy y su radio solo depende de la longitud de onda y de la <a style="color:lightslategray" href="https://juditsastre.github.io/blog-copy/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">apertura numérica</a> del objetivo de nuestro microscopio. <b>Derecha</b>: Difracción de una onda al pasar por una abertura. Fuente: Wikicommons.</figcaption>
@@ -44,7 +44,7 @@ Ahora sí. Lo que el bueno de Ernst quería decir es que no podremos diferenciar
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-07-17-superresolucion/FIG_limiteBIEN.jpg"/>
 	<figcaption> Fuente: Adaptada de <a href="http://physwiki.apps01.yorku.ca/index.php?title=Main_Page/BPHS_4090/microscopy_I" target="_blank">Undergraduate Physics - York University</a> y <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/phyopt/diflim.html" target="_blank">HyperPhysics</a> </figcaption>
 </figure>
-En microscopía óptica se usa luz visible, la cual tiene un rango de longitud de onda de entre 380 y 780 nanómetros. Por lo tanto, usando el límite de difracción de Abbe, la máxima <a style="color:lightslategray" href="https://juditsastre.github.io/blog-copy/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">resolución</a> teórica que se podría alcanzar es de unos 200 nm.
+En microscopía óptica se usa luz visible, la cual tiene un rango de longitud de onda de entre 380 y 780 nanómetros. Por lo tanto, usando el límite de difracción de Abbe, la máxima <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">resolución</a> teórica que se podría alcanzar es de unos 200 nm.
 
 Vale, tenemos un problema. Y gordo. ¿Cómo podemos ver más allá de esos 200 nm?
 
@@ -56,7 +56,7 @@ Los físicos pensaron que podían solucionar el problema usando longitudes de on
 
 La luz no quiere ayudarnos. Pero… un momento. Si nos deslumbra, ¿por qué no apagarla? ¿Cómo hacemos eso? Podemos aprovecharnos del comportamiento de las “bombillas moleculares” o “pulsar un interruptor”. Dos opciones y las dos son correctas. ¡Bingo! Pues premio Nobel para las dos.
 
-Moerner y Betzig usaron las <a style="color:lightslategray" href="https://juditsastre.github.io/blog-copy/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">fotopropiedades</a> de los <a style="color:lightslategray" href="https://juditsastre.github.io/blog-copy/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">fluoróforos</a> —nuestras “bombillas moleculares”—; a mí me gusta decir que resolvieron el problema *desde la química*. Hell, en cambio, diseñó ese “interruptor”; así que diré que encontró una solución *desde la física*.
+Moerner y Betzig usaron las <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">fotopropiedades</a> de los <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">fluoróforos</a> —nuestras “bombillas moleculares”—; a mí me gusta decir que resolvieron el problema *desde la química*. Hell, en cambio, diseñó ese “interruptor”; así que diré que encontró una solución *desde la física*.
 
 La *aproximación química* de Moerner y Betzig dio lugar a un conjunto de técnicas que se conocen como *Single Molecule Localisation Microscopy* —SMLM, por sus siglas en inglés—. Estas técnicas burlan los límites de la física empleando el comportamiento de las moléculas o partículas fluorescentes. 
 
@@ -69,7 +69,7 @@ Todas estas transiciones entre diferentes estados son procesos estocásticos, qu
 Dejémonos de rodeos físicos y químicos, ¿cómo se obtiene una imagen superresolutiva usando SMLM? 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-07-17-superresolucion/FIG_SMLM.jpg"/>
-	<figcaption> Fuente: Adaptada de <a href="https://github.com/superresolusian/NEUBIAS-webinar/blob/master/A%20guided%20tour%20for%20analyzing%20and%20quantifying%20single-molecule_short.pdf" target="_blank">Superesolusian</a>. Podéis ver  una demo interactiva en <b>“Para saber más”</b>.</figcaption>
+	<figcaption> Fuente: Adaptada de <a href="https://github.com/superresolusian/NEUBIAS-webinar/blob/master/A%20guided%20tour%20for%20analyzing%20and%20quantifying%20single-molecule_short.pdf" target="_blank">Superesolusian</a>. Podéis ver  una demo interactiva en <b>«Para saber más»</b>.</figcaption>
 </figure>
 Nuestra muestra seguirá teniendo los fluoróforos apagados demasiado cerca pero, gracias a su peculiar comportamiento, podremos separarlos **en el tiempo**. Así, iremos capturando imágenes limitadas por la difracción en las que solo algunas de las moléculas están encendidas.  Ajustaremos cada uno de los puntos-moléculas a una función matemática, una gaussiana, para determinar el centro de ese punto. Y es, justo aquí, donde ya no nos importa el límite de difracción: la exactitud con la que determinemos su posición dependerá principalmente de lo bien que hayamos detectado cada molécula —del número de fotones detectados—. Después de capturar muchas imágenes y calcular el centro de muchos puntos, podremos reconstruir una imagen superresolutiva de nuestra muestra “pintando” las coordenadas de cada una de las moléculas que hemos localizado.
 
@@ -78,7 +78,7 @@ Separar la fluorescencia de las moléculas en el tiempo, localizar su centro com
 En la *aproximación física*, Hell sorteó el límite de difracción de Abbe usando dos láseres. El primero excita las moléculas fluorescentes de la misma forma que hemos descrito arriba. El segundo, que tiene forma de dónut, apaga algunas de las moléculas que han sido encendidas por el primer láser usando un proceso conocido como emisión estimulada. En este proceso, los electrones que se encuentran en el estado excitado (S<sub>1</sub>) son forzados a decaer al estado fundamental (S<sub>0</sub>) al interaccionar con los fotones del láser-dónut. La diferencia entre este proceso y la fluorescencia es que, en la emisión estimulada el electrón se relaja hasta un nivel vibracional superior del estado fundamental (ver la figura siguiente). Esto supone que, aunque ambos procesos impliquen transiciones S<sub>1</sub>→S<sub>0</sub> en las que se emiten fotones (luz), la emisión de cada uno de ellos tiene una longitud de onda (color) diferente; lo que permite separarlas y, en última instancia, ver solo la emisión que corresponde a la fluorescencia.
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-07-17-superresolucion/FIG_STED2.jpg"/>
-	<figcaption> Fuente: Adaptada de <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359029417301309" target="_blank">Aloi et al. (2018)</a>. Podéis ver  una demo interactiva en <b>“Para saber más”</b>.</figcaption>
+	<figcaption> Fuente: Adaptada de <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359029417301309" target="_blank">Aloi et al. (2018)</a>. Podéis ver  una demo interactiva en <b>«Para saber más»</b>.</figcaption>
 </figure>
 Al usar el láser-dónut y apagar los fluoróforos de los alrededores, lo que hacemos es reducir el tamaño del área en la que pueden emitir los fluoróforos —reducimos el tamaño de nuestro “halo”—. Es decir, separamos la fluorescencia **en el espacio**; lo que provoca que podamos distinguir dos elementos cuya distancia sea menor al límite de difracción. Esto no significa que apartemos un fluoróforo de otro, sino que lo que hacemos es ir iluminando nuestra muestra “a cachitos”. Así, la muestra es barrida por el dúo de láseres para formar una sola imagen superresolutiva cuya resolución alcanza fácilmente los 50 nm.
 
