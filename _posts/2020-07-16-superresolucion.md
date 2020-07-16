@@ -15,6 +15,13 @@ tags:
   - STED
   - SMLM
 --- 
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 
 A finales del siglo XIX, el físico alemán Ernst Abbe postuló que “es imposible discernir dos elementos más cercanos entre sí que la mitad de la longitud de onda de la luz empleada”.  Y durante muchos años, así fue. Pero como os imaginaréis, los biólogos necesitaban ver las estructuras más finas de sus células y a los físicos no les gustaba eso de que la naturaleza les impusiera un límite —¡¿Quién se cree que es?!, decían.
 
@@ -24,7 +31,7 @@ Es tan bonito lo que consiguieron Hell, Betzig y Moerner… No solo abrieron un 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-07-17-superresolucion/imagen_top.jpg" style="width:400px" class="center">
 	<figcaption> Imagen superresolutiva de neuronas hipocampales en las que las proteínas actina (fuego), map2 (azul) y neurofascina (cian) han sido marcadas con fluoróforos. Fuente: <a href="http://www.neurocytolab.org/" target="_blank">NeuroCyto Lab</a>.</figcaption>
-</figure>{: .align-center}
+</figure>
 ¿Qué narices significa el postulado de Abbe? Dejadnos dar un pequeño rodeo, solo serán un par de conceptos físicos.
 
 Cuando visualizamos un objeto más pequeño que la longitud de onda de la luz que utilizamos, la imagen que se forma es más grande que el tamaño real del objeto: se forma un “halo”. Esto sucede porque la luz cambia de dirección al chocar con los bordes del objetivo del microscopio y la partícula, provocando que el frente de onda se extienda. Este fenómeno se conoce como difracción.
