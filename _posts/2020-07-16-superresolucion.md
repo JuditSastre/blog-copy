@@ -1,11 +1,19 @@
 ---
 title: "Microscopía de superresolución o cómo reírnos de los límites de la física"
 header:
-  image: /assets/images/header.jpg
+  image: /assets/images/CientificasErbias_reducida.jpg
+  caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
   og_image: /assets/images/posts/2020-05-17-superresolucion/comparison.jpg
+categories:
+  - Viaje al centro de la ciencia
 published: true
 comments: true
 author_profile: true
+tags:
+  - Microscopía fluorescencia
+  - Superresolución
+  - STED
+  - SMLM
 --- 
 
 A finales del siglo XIX, el físico alemán Ernst Abbe postuló que “es imposible discernir dos elementos más cercanos entre sí que la mitad de la longitud de onda de la luz empleada”.  Y durante muchos años, así fue. Pero como os imaginaréis, los biólogos necesitaban ver las estructuras más finas de sus células y a los físicos no les gustaba eso de que la naturaleza les impusiera un límite —¡¿Quién se cree que es?!, decían.
