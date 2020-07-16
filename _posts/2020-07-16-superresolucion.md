@@ -74,8 +74,7 @@ Después de esta técnica, conocida como STED (*STimulated Emission Depletion*),
 </figure>
 Ni la *aproximación química* ni la *física* rompen el límite de difracción, sino que exploran condiciones en las que este ya no se cumple para ir más allá de esos 200 nm. Para ello, además del ingenio de los premiados, es necesario usar técnicas avanzadas de microscopía que permitan limitar el volumen de muestra excitado para restringir la cantidad de luz indeseada que recibe la cámara; si no las usáramos, sería como intentar ver una estrella a plena luz del día. Además, esas cámaras son muy sensibles pues la cantidad de luz que emite una molécula es muy pequeña. Para que os hagáis una idea, un fluoróforo orgánico típico emite unos 60.000 fotones cada segundo mientras que una bombilla de 100W como las que tenemos en casa emite unos 100.000.000.000.000.000.000 fotones/segundo (¡cien trillones!); para rematar, de los tristes 60.000 fotones que emite nuestra molécula solo detectaremos un 12% porque se van perdiendo a lo largo del camino óptico del microscopio. Por último, aunque no por ello menos importante, también hay que tener en cuenta las fotopropiedades de los fluoróforos: lo brillantes que son, su estabilidad, etc. Así que, aunque nosotros hemos hablado sobre todo de física y química en este post, este gran avance fue, es y será fruto del trabajo multidisciplinar de biólogos, bioquímicos, ingenieros, desarrolladores de software… Y físicos y químicos. 
 
-&nbsp;
-&nbsp;
+
 <span style="font-size:1.5em"><a id="target" style= "color:black"><b>Glosario</b></a></span>
 &nbsp;   
 <span style="font-size:1.25em">
@@ -88,7 +87,6 @@ Ni la *aproximación química* ni la *física* rompen el límite de difracción,
 **Fotopropiedades**: Este término es de cosecha propia. Me refiero a las propiedades fotoquímicas y fotofísicas de las moléculas fluorescentes: el tiempo que permanecen en el estado temporalmente apagado, cuánto tiempo tardan en apagarse definitivamente, cuántas veces pueden apagarse y encenderse antes de apagarse definitivamente, cuántos fotones emiten por segundo, etcétera. 
 </span>
 {: .notice--primary}
-&nbsp;  
 
 ---
 **Para saber más**
