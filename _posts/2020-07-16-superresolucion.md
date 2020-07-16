@@ -23,9 +23,9 @@ img {
 }
 </style>
 
-A finales del siglo XIX, el físico alemán Ernst Abbe postuló que “es imposible discernir dos elementos más cercanos entre sí que la mitad de la longitud de onda de la luz empleada”.  Y durante muchos años, así fue. Pero como os imaginaréis, los biólogos necesitaban ver las estructuras más finas de sus células y a los físicos no les gustaba eso de que la naturaleza les impusiera un límite —¡¿Quién se cree que es?!, decían.
+A finales del siglo XIX, el físico alemán Ernst Abbe postuló que “es imposible discernir dos elementos más cercanos entre sí que la mitad de la <a style="color:lightslategray" href="https://juditsastre.github.io/blog-copy/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">longitud de onda</a> de la luz empleada”.  Y durante muchos años, así fue. Pero como os imaginaréis, los biólogos necesitaban ver las estructuras más finas de sus células y a los físicos no les gustaba eso de que la naturaleza les impusiera un límite —¡¿Quién se cree que es?!, decían.
 
-Más de 150 años después, en 2014, [Stefan Hell](https://www.nobelprize.org/prizes/chemistry/2014/hell/biographical/){:target="_blank"}, [Robert Eric Betzig](https://www.nobelprize.org/prizes/chemistry/2014/betzig/biographical/){:target="_blank"} y [William E. Moerner](https://www.nobelprize.org/prizes/chemistry/2014/moerner/biographical/){:target="_blank"} recibieron el premio Nobel de Química por “el desarrollo de la microscopía de fluorescencia de superresolución”, demostrando que podíamos ver moléculas sin tener *demasiado* en cuenta el límite de Abbe usando microscopía óptica. ¡Abbe ha muerto, larga vida a la nanoscopía!
+Más de 150 años después, en 2014, [Stefan Hell](https://www.nobelprize.org/prizes/chemistry/2014/hell/biographical/){:target="_blank"}, [Robert Eric Betzig](https://www.nobelprize.org/prizes/chemistry/2014/betzig/biographical/){:target="_blank"} y [William E. Moerner](https://www.nobelprize.org/prizes/chemistry/2014/moerner/biographical/){:target="_blank"} recibieron el premio Nobel de Química por “el desarrollo de la microscopía de fluorescencia de superresolución”, demostrando que podíamos ver moléculas sin tener *demasiado* en cuenta el límite de Abbe usando microscopía óptica. ¡Abbe ha muerto, larga vida a la <a style="color:lightslategray" href="https://juditsastre.github.io/blog-copy/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">nanoscopía</a>!
 
 Es tan bonito lo que consiguieron Hell, Betzig y Moerner… No solo abrieron un mundo nuevo hasta ahora imposible de ver, sino que rompieron los límites de lo que creíamos posible. Fijaos.
 <figure>
@@ -34,17 +34,17 @@ Es tan bonito lo que consiguieron Hell, Betzig y Moerner… No solo abrieron un 
 </figure>
 ¿Qué narices significa el postulado de Abbe? Dejadnos dar un pequeño rodeo, solo serán un par de conceptos físicos.
 
-Cuando visualizamos un objeto más pequeño que la longitud de onda de la luz que utilizamos, la imagen que se forma es más grande que el tamaño real del objeto: se forma un “halo”. Esto sucede porque la luz cambia de dirección al chocar con los bordes del objetivo del microscopio y la partícula, provocando que el frente de onda se extienda. Este fenómeno se conoce como difracción.
+Cuando visualizamos un objeto más pequeño que la longitud de onda de la luz que utilizamos, la imagen que se forma es más grande que el tamaño real del objeto: se forma un “halo”. Esto sucede porque la luz cambia de dirección al chocar con los bordes del objetivo del microscopio y la partícula, provocando que el <a style="color:lightslategray" href="https://juditsastre.github.io/blog-copy/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">frente de onda</a> se extienda. Este fenómeno se conoce como difracción.
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-07-17-superresolucion/combined2.gif"/>
-	<figcaption> <b>Izquierda</b>:Patrón de difracción. El punto central se conoce como Disco de Airy y su radio solo depende de la longitud de onda y de la apertura numérica del objetivo de nuestro microscopio. <b>Derecha</b>: Difracción de una onda al pasar por una abertura. Fuente: Wikicommons.</figcaption>
+	<figcaption> <b>Izquierda</b>:Patrón de difracción. El punto central se conoce como Disco de Airy y su radio solo depende de la longitud de onda y de la <a style="color:lightslategray" href="https://juditsastre.github.io/blog-copy/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">apertura numérica</a> del objetivo de nuestro microscopio. <b>Derecha</b>: Difracción de una onda al pasar por una abertura. Fuente: Wikicommons.</figcaption>
 </figure>
 Ahora sí. Lo que el bueno de Ernst quería decir es que no podremos diferenciar dos puntos si no están lo suficientemente separados.
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-07-17-superresolucion/FIG_limiteBIEN.jpg"/>
 	<figcaption> Fuente: Adaptada de <a href="http://physwiki.apps01.yorku.ca/index.php?title=Main_Page/BPHS_4090/microscopy_I" target="_blank">Undergraduate Physics - York University</a> y <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/phyopt/diflim.html" target="_blank">HyperPhysics</a> </figcaption>
 </figure>
-En microscopía óptica se usa luz visible, la cual tiene un rango de longitud de onda de entre 380 y 780 nanómetros. Por lo tanto, usando el límite de difracción de Abbe, la máxima resolución teórica que se podría alcanzar es de unos 200 nm.
+En microscopía óptica se usa luz visible, la cual tiene un rango de longitud de onda de entre 380 y 780 nanómetros. Por lo tanto, usando el límite de difracción de Abbe, la máxima <a style="color:lightslategray" href="https://juditsastre.github.io/blog-copy/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">resolución</a> teórica que se podría alcanzar es de unos 200 nm.
 
 Vale, tenemos un problema. Y gordo. ¿Cómo podemos ver más allá de esos 200 nm?
 
@@ -56,7 +56,7 @@ Los físicos pensaron que podían solucionar el problema usando longitudes de on
 
 La luz no quiere ayudarnos. Pero… un momento. Si nos deslumbra, ¿por qué no apagarla? ¿Cómo hacemos eso? Podemos aprovecharnos del comportamiento de las “bombillas moleculares” o “pulsar un interruptor”. Dos opciones y las dos son correctas. ¡Bingo! Pues premio Nobel para las dos.
 
-Moerner y Betzig usaron las fotopropiedades de los fluoróforos —nuestras “bombillas moleculares”—; a mí me gusta decir que resolvieron el problema *desde la química*. Hell, en cambio, diseñó ese “interruptor”; así que diré que encontró una solución *desde la física*.
+Moerner y Betzig usaron las <a style="color:lightslategray" href="https://juditsastre.github.io/blog-copy/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">fotopropiedades</a> de los <a style="color:lightslategray" href="https://juditsastre.github.io/blog-copy/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">fluoróforos</a> —nuestras “bombillas moleculares”—; a mí me gusta decir que resolvieron el problema *desde la química*. Hell, en cambio, diseñó ese “interruptor”; así que diré que encontró una solución *desde la física*.
 
 La *aproximación química* de Moerner y Betzig dio lugar a un conjunto de técnicas que se conocen como *Single Molecule Localisation Microscopy* —SMLM, por sus siglas en inglés—. Estas técnicas burlan los límites de la física empleando el comportamiento de las moléculas o partículas fluorescentes. 
 
