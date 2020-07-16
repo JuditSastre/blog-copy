@@ -24,7 +24,7 @@ Es tan bonito lo que consiguieron Hell, Betzig y Moerner… No solo abrieron un 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-07-17-superresolucion/imagen_top_300.jpg"/>
 	<figcaption> Imagen superresolutiva de neuronas hipocampales en las que las proteínas actina (fuego), map2 (azul) y neurofascina (cian) han sido marcadas con fluoróforos. Fuente: <a href="http://www.neurocytolab.org/" target="_blank">NeuroCyto Lab</a>.</figcaption>
-</figure>
+</figure>{: .align-center}
 ¿Qué narices significa el postulado de Abbe? Dejadnos dar un pequeño rodeo, solo serán un par de conceptos físicos.
 
 Cuando visualizamos un objeto más pequeño que la longitud de onda de la luz que utilizamos, la imagen que se forma es más grande que el tamaño real del objeto: se forma un “halo”. Esto sucede porque la luz cambia de dirección al chocar con los bordes del objetivo del microscopio y la partícula, provocando que el frente de onda se extienda. Este fenómeno se conoce como difracción.
