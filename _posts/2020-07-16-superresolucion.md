@@ -93,13 +93,13 @@ Ni la *aproximación química* ni la *física* rompen el límite de difracción,
 <span style="font-size:1.5em"><a id="target" style= "color:black"><b>Glosario</b></a></span>
 &nbsp;   
 <span style="font-size:1.25em">
-**Nanoscopía**: Otro nombre para la microscopía de superresolución, que comprende el conjunto de técnicas que permiten distinguir objetos cuya separación ronda las decenas de nanómetros, es decir, 0’00000001 metros.  
 **Longitud de onda**: La distancia entre las crestas de la onda. En nuestro caso, la onda es electromagnética ya que hablamos de luz.  
+**Nanoscopía**: Otro nombre para la microscopía de superresolución, que comprende el conjunto de técnicas que permiten distinguir objetos cuya separación ronda las decenas de nanómetros, es decir, 0’00000001 metros.  
 **Frente de onda**: Imaginad que tiráis una piedra en un estanque. ¿Véis las circunferencias concéntricas que se forman en torno al punto en el que ha caído la piedra? Cada una de estas circunferencias es un frente de onda.  
-**Fluoróforo**: Cualquier molécula o partícula que, al ser iluminada, emita luz. En microscopía de fluorescencia se suelen usar moléculas orgánicas, proteínas intrínsecamente fluorescentes o puntos cuánticos.  
-**Apertura numérica del objetivo**: Este número es una medida de la capacidad de un objetivo para recoger la luz y resolver detalles finos de muestras a una distancia fija del objeto.  
+**Apertura numérica**: Este número es una medida de la capacidad de un objetivo para recoger la luz y resolver detalles finos de muestras a una distancia fija del objeto.  
 **Resolución**: la distancia mínima entre dos objetos para poder distinguirlos.  A mayor resolución mayor detalle en la imagen.  
-**Fotopropiedades**: Este término es de cosecha propia. Me refiero a las propiedades fotoquímicas y fotofísicas de las moléculas fluorescentes: el tiempo que permanecen en el estado temporalmente apagado, cuánto tiempo tardan en apagarse definitivamente, cuántas veces pueden apagarse y encenderse antes de apagarse definitivamente, cuántos fotones emiten por segundo, etcétera. 
+**Fotopropiedades**: Este término es de cosecha propia. Me refiero a las propiedades fotoquímicas y fotofísicas de las moléculas fluorescentes: el tiempo que permanecen en el estado temporalmente apagado, cuánto tiempo tardan en apagarse definitivamente, cuántas veces pueden apagarse y encenderse antes de apagarse definitivamente, cuántos fotones emiten por segundo, etcétera.   
+**Fluoróforo**: Cualquier molécula o partícula que, al ser iluminada, emita luz. En microscopía de fluorescencia se suelen usar moléculas orgánicas, proteínas intrínsecamente fluorescentes o puntos cuánticos.  
 </span>
 {: .notice--primary}
 
