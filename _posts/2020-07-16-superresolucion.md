@@ -1,9 +1,8 @@
 ---
 title: "Microscopía de superresolución o cómo reírnos de los límites de la física"
 header:
-  image: /assets/images/posts/2020-05-20-bienvenida-erbia/header_erbio.jpg
-  teaser: /assets/images/posts/2020-05-20-bienvenida-erbia/header_erbio.jpg
-  og_image: /assets/images/posts/2020-05-20-bienvenida-erbia/header_erbio.jpg
+  image: /assets/images/header.jpg
+  og_image: /assets/images/posts/2020-05-17-superresolucion/comparison.jpg
 published: true
 comments: true
 author_profile: true
