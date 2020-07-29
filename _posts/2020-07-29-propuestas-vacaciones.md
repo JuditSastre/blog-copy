@@ -37,5 +37,5 @@ Por ejemplo:
 
 **¡No, no hemos desaparecido! Las erbias nos hemos tomado el mes de agosto de vacaciones, pero volvemos en septiembre con nuevos posts y otras novedades.  
 ¡Y seguimos activos en redes! Que paséis muy buen verano y nos vemos en septiembre.**{: .text-justify} #<p style='color:#111722'><b>Beeryoulater</b></p>
-[holidays](/assets/images/lefa.jpg){: .align-center}
+![holidays](/assets/images/lefa.jpg){: .align-center}
 {: .notice--warning}
