@@ -27,15 +27,14 @@ title: "Propuestas anuncio vacaciones"
   transform: translate(-50%, -50%);
 }
 
-img1 {
+img {
   opacity: 0.7;
 }
 </style>
 
 <div class="container">
-  <img1 src="https://github.com/JuditSastre/blog-copy/blob/master/assets/images/vacaciones.jpg?raw=true" alt="Snow" style="width:50%;">
+  <img src="https://github.com/JuditSastre/blog-copy/blob/master/assets/images/vacaciones.jpg?raw=true" alt="Snow" style="width:50%;">
   <div class="centered">¡No, no hemos desaparecido!<br>Las erbias nos hemos tomado el mes<br>de agosto de vacaciones,<br>pero volvemos en septiembre con nuevos posts y otras novedades.<br>¡Y seguimos activos en redes!<br> Que paséis muy buen verano<br>y nos vemos en septiembre.<br><span style="color:#004d99"><b>#Beeryoulater</b></span></div>
 </div>
 
-Estos son los tipos de recuadro que vienen implementados en MinimalMistake.
 
