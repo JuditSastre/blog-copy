@@ -33,11 +33,40 @@ Estás
 Mal.
 {: .notice--danger}
 
-Por ejemplo:
+**OPCIÓN 1**
 
 **¡No, no hemos desaparecido! Las erbias nos hemos tomado el mes de agosto de vacaciones, pero volvemos en septiembre con nuevos posts y otras novedades.  
 ¡Y seguimos activos en redes! Que paséis muy buen verano y nos vemos en septiembre.** <span style="color:#004d99"><b>#Beeryoulater</b></span>
 &nbsp;
 <img src="https://juditsastre.github.io/blog-copy/assets/images/lefa.jpg" alt="holidays" width="30%" style="border:1px solid white" class= "align-center">
 {: .notice--warning}
+
+**OPCIÓN 2**
+
+<style>
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+img {
+  opacity: 0.5;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <img src="https://github.com/JuditSastre/blog-copy/blob/master/assets/images/vacaciones.jpg?raw=true" alt="Snow" style="width:70%;">
+  <div class="centered">¡No, no hemos desaparecido! Las erbias nos hemos tomado el mes de agosto de vacaciones, pero volvemos en septiembre con nuevos posts y otras novedades.  
+¡Y seguimos activos en redes! Que paséis muy buen verano y nos vemos en septiembre. <span style="color:#004d99"><b>#Beeryoulater</b></span></div>
+</div>
 
