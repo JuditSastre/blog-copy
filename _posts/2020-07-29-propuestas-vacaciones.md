@@ -36,6 +36,7 @@ Mal.
 Por ejemplo:
 
 **¡No, no hemos desaparecido! Las erbias nos hemos tomado el mes de agosto de vacaciones, pero volvemos en septiembre con nuevos posts y otras novedades.  
-¡Y seguimos activos en redes! Que paséis muy buen verano y nos vemos en septiembre.** #<p style="color:#004d99"><b>Beeryoulater</b></p>
+¡Y seguimos activos en redes! Que paséis muy buen verano y nos vemos en septiembre. #** 
+<p style="color:blue"><b>Beeryoulater</b></p>
 ![holidays]({{ "/assets/images/lefa.jpg" | relative_url }}){: .align-center}
 {: .notice--warning}
