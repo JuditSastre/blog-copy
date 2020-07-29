@@ -15,24 +15,25 @@ Estos son los tipos de recuadro que vienen implementados en MinimalMistake.
 Probamos:
 
 Hola
-.notice
+{: .notice}
+
 
 Qué
-.notice--primary
+{: .notice--primary}
 
 Tal
-.notice--info
+.notice--info}
 
 Estás
-.notice--warning
+{: .notice--warning}
 
 ¿?
-.notice--success
+{: .notice--success}
 
 Mal.
-.notice--danger.
+{: .notice--danger}
 
 Por ejemplo:
 
 ¡No, no hemos desaparecido! Las erbias nos hemos tomado el mes de agosto de vacaciones, pero volvemos en septiembre con nuevos posts y otras novedades. ¡Y seguimos activos en redes! Que paséis muy buen verano y nos vemos en septiembre. #Beeryoulater
-.notice--success
+{: .notice--success}
