@@ -22,7 +22,7 @@ Qué
 {: .notice--primary}
 
 Tal
-.notice--info}
+{.notice--info}
 
 Estás
 {: .notice--warning}
