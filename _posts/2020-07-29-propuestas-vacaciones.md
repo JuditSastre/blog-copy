@@ -22,7 +22,7 @@ Qué
 {: .notice--primary}
 
 Tal
-{.notice--info}
+{: .notice--info}
 
 Estás
 {: .notice--warning}
@@ -35,5 +35,7 @@ Mal.
 
 Por ejemplo:
 
-¡No, no hemos desaparecido! Las erbias nos hemos tomado el mes de agosto de vacaciones, pero volvemos en septiembre con nuevos posts y otras novedades. ¡Y seguimos activos en redes! Que paséis muy buen verano y nos vemos en septiembre. #Beeryoulater
-{: .notice--success}
+**¡No, no hemos desaparecido! Las erbias nos hemos tomado el mes de agosto de vacaciones, pero volvemos en septiembre con nuevos posts y otras novedades.  
+¡Y seguimos activos en redes! Que paséis muy buen verano y nos vemos en septiembre.**<p style='color:#111722'><b>#Beeryoulater</b></p>{: .text-justify}
+[holidays](/assets/images/lefa.jpg){: .align-center}
+{: .notice--warning}
