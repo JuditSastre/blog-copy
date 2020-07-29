@@ -37,5 +37,5 @@ Por ejemplo:
 
 **¡No, no hemos desaparecido! Las erbias nos hemos tomado el mes de agosto de vacaciones, pero volvemos en septiembre con nuevos posts y otras novedades.  
 ¡Y seguimos activos en redes! Que paséis muy buen verano y nos vemos en septiembre.**
-<p style="color:blue"><b>#Beeryoulater</b></p> <img src="https://juditsastre.github.io/blog-copy/assets/images/lefa.jpg" alt="holidays" width="50%" style="border:2px solid black" class= "align-center">
+<p style="color:#004d99"><b>#Beeryoulater</b></p> <img src="https://juditsastre.github.io/blog-copy/assets/images/lefa.jpg" alt="holidays" width="50%" style="border:2px solid black" class= "align-center">
 {: .notice--warning}
