@@ -65,7 +65,7 @@ img {
 <body>
 
 <div class="container">
-  <img src="https://github.com/JuditSastre/blog-copy/blob/master/assets/images/vacaciones.jpg?raw=true" alt="Snow" style="width:70%;">
+  <img src="https://github.com/JuditSastre/blog-copy/blob/master/assets/images/vacaciones.jpg?raw=true" alt="Snow" style="width:40%;">
   <div class="centered">¡No, no hemos desaparecido! Las erbias nos hemos tomado el mes de agosto de vacaciones, pero volvemos en septiembre con nuevos posts y otras novedades.  
 ¡Y seguimos activos en redes! Que paséis muy buen verano y nos vemos en septiembre. <span style="color:#004d99"><b>#Beeryoulater</b></span></div>
 </div>
