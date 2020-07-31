@@ -73,6 +73,8 @@ div.ex2 {
 </style>
 </head>
 <body>
+  
+<img src="https://juditsastre.github.io/blog-copy/assets/images/vacaciones2.jpg" alt="holidays" width="100%" class= "align-center">
 
 <div class="ex2"><p>&nbsp;&nbsp;¡Bienvenido al club de las científicas Erbias! Este club está formado por un grupo de amigos que provenimos de distintas ramas científicas, con el objetivo común de transmitir nuestra pasión por la ciencia a todo tipo de público. Como no todo en ciencia reluce, además de compartir temas de interés científico, os contaremos cómo es la vida de un investigador y los retos y dificultades que conlleva.</p>
  
