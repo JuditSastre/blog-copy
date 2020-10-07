@@ -76,7 +76,6 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la c
   <div class="column" style="background-color:#FFFFFF;">
     <h3>Iraitz Gorroño Bikandi</h3>
     <p><img src="https://github.com/JuditSastre/blog-copy/blob/master/assets/images/Iraitz1600x1200.jpg?raw=true" class="center"><br>Graduado en física y con un máster en astrofísica, invierto mi tiempo libre en viajes, windsurf, amigos y, por supuesto, buena cerveza. ¿Qué habrá ahí fuera? Es una pregunta que me hago desde que tengo memoria. Friki apasionado de los misterios que esconden los agujeros negros.
-#BlackBeer
  <b><br>#BlackBeer</b></p>
   </div>
 </div>
