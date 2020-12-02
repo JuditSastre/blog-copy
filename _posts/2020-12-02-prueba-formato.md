@@ -24,8 +24,10 @@ title: "Prueba formato bio invitado"
 <body>
 
 <div class="box">
-  <h3>Sobre la autora</h3>
-  <h3>Aida Lopez Serna</h3>
+  <span style="font-size:1.5em"><b>Sobre la autora</b></span>
+  <br>   
+  <br>
+  <span style="font-size:1.25em"> Aida Lopez Serna</span>
   <img src="https://avatarfiles.alphacoders.com/121/121594.jpg" style="float:left">
   <p>Quimica de formacion, profesora por vocacion y divulgadora por conviccion.<br>
   <b>#CommunicationLover</b></p>
