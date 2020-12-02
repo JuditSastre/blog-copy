@@ -36,7 +36,7 @@ La ciencia y las personas que nos dedicamos a ella investigando, divulgando o en
 }
 
 .box {
-  width: 75%;
+  width: 60%;
   float: right;
   padding: 15px;
   background-color: #CCD4BF
