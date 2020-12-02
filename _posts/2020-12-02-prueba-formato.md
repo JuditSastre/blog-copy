@@ -29,6 +29,8 @@ Que las vacunas producen autismo, que con el 5G nos quieren controlar, que un di
 
 La ciencia y las personas que nos dedicamos a ella investigando, divulgando o enseñando tenemos muchísimo trabajo. El objetivo ya no es solo el avance científico-tecnológico. La dimensión social de la ciencia debe adquirir un papel protagonista. No podemos abandonar a los náufragos pseudocientíficos a su suerte, debemos cogerles de la mano y guiarlos por el sendero del conocimiento y del saber contrastado. La cuestión no es llegar más lejos, sino asegurarnos de que llegamos todos y todas. 
 
+---
+
 
 <style>
  *{
