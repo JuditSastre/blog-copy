@@ -20,7 +20,6 @@ title: "Prueba formato bio invitado"
  padding: 5px;
 }
 </style>
-</head>
 <body>
 
 <div class="box">
