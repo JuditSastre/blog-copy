@@ -1,7 +1,7 @@
 ---
 title: "Prueba formato bio invitado"
 ---
-
+<style>
 .block {
   display: inline-block;
   width: 200px;
@@ -17,6 +17,7 @@ title: "Prueba formato bio invitado"
  width: 100px;
  height: 100px;
 }
+</style>
 <div class="container">
   <div class="block">
     <h3>Title 1</h3>
