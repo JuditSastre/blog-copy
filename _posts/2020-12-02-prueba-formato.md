@@ -10,7 +10,6 @@ title: "Prueba formato bio invitado"
   width: 75%;
   float: right;
   padding: 15px;
-  border: 2px solid Gainsboro;
   background-color: #CCD4BF
 }
 
@@ -23,8 +22,7 @@ title: "Prueba formato bio invitado"
 <body>
 
 <div class="box">
-  <span style="font-size:1.5em"><b>Sobre la autora</b></span>   
-  <br>
+  <span style="font-size:1.5em"><b>Sobre la autora</b></span> 
   <img src="https://github.com/JuditSastre/blog-copy/blob/master/assets/images/Aida1600x1200.jpg?raw=true" style="float:left">
   <h3> Aida Lopez Serna</h3>
   <p>Quimica de formacion, profesora por vocacion y divulgadora por conviccion.<br>
