@@ -1,16 +1,16 @@
 ---
-title: "Formato bio invitado"
+title: "La crisis de la COVID-19"
 header:
   image: /assets/images/CientificasErbias_reducida.jpg
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
-  og_image: /assets/images/posts/2020-07-03-CocinandoPasta/og_image.jpg
+  og_image: /assets/images/og_image.jpg
 categories:
   - Lo cotidiano es ciencia
 comments: true
 author_profile: true
 tags:
-  - Termodinámica
-  - Cocina
+  - coronavirus
+  - opinion
 ---
 
 Mientras preparo los temas para las oposiciones docentes me ha dado por reflexionar sobre el sistema educativo y he llegado a la siguiente conclusión: el sistema actúa como catalizador de las revoluciones científicas en las mentes del alumnado.
@@ -36,7 +36,7 @@ La ciencia y las personas que nos dedicamos a ella investigando, divulgando o en
 }
 
 .box {
-  width: 60%;
+  width: 65%;
   float: right;
   padding: 15px;
   background-color: #CCD4BF
@@ -52,7 +52,7 @@ La ciencia y las personas que nos dedicamos a ella investigando, divulgando o en
 
 <div class="box">
   <span style="font-size:1.3em"><b>Sobre la autora</b></span><br>
-  <img src="https://avatarfiles.alphacoders.com/121/121594.jpg" style="float:left">
+  <img src="https://github.com/JuditSastre/blog-copy/blob/master/assets/images/Aida1600x1200.jpg?raw=true" style="float:left">
   <span style="font-size:1.1em"><b>Aida Lopez Serna</b></span>
   <p>Quimica de formacion, profesora por vocacion y divulgadora por conviccion.<br>
   <b>#CommunicationLover</b></p>
