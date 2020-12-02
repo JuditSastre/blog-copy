@@ -11,7 +11,7 @@ title: "Prueba formato bio invitado"
   float: right;
   padding: 15px;
   border: 2px solid Gainsboro;
-  background-color: #e6eeff
+  background-color: #CCD4BF
 }
 
 .box img {
@@ -24,7 +24,8 @@ title: "Prueba formato bio invitado"
 <body>
 
 <div class="box">
-  <h1>Aida Lopez Serna</h1>
+  <h1>Sobre la autora</h1>
+  <h2>Aida Lopez Serna</h2>
   <img src="https://avatarfiles.alphacoders.com/121/121594.jpg" style="float:left">
   <p>Quimica de formacion, profesora por vocacion y divulgadora por conviccion.</p>
   <p><b>#CommunicationLover</b></p>
