@@ -52,8 +52,8 @@ La ciencia y las personas que nos dedicamos a ella investigando, divulgando o en
 
 <div class="box">
   <span style="font-size:1.5em"><b>Sobre la autora</b></span><br>
-  <img src="https://github.com/JuditSastre/blog-copy/blob/master/assets/images/Aida1600x1200.jpg?raw=true" style="float:left">
-  <h3> Aida Lopez Serna</h3>
+  <img src="https://avatarfiles.alphacoders.com/121/121594.jpg" style="float:left">
+  <span style="font-size:1.2em"><br><b>Aida Lopez Serna</b></span>
   <p>Quimica de formacion, profesora por vocacion y divulgadora por conviccion.<br>
   <b>#CommunicationLover</b></p>
 </div>
