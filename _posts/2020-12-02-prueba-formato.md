@@ -5,12 +5,13 @@ header:
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
   og_image: /assets/images/og_image.jpg
 categories:
-  - Lo cotidiano es ciencia
+  - Breaking Lab
 comments: true
 author_profile: true
 tags:
   - Coronavirus
   - Opinion
+  - Colaboradores
 ---
 
 Mientras preparo los temas para las oposiciones docentes me ha dado por reflexionar sobre el sistema educativo y he llegado a la siguiente conclusión: el sistema actúa como catalizador de las revoluciones científicas en las mentes del alumnado.
