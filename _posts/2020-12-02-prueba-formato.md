@@ -2,36 +2,32 @@
 title: "Prueba formato bio invitado"
 ---
 <style>
-.block {
-  display: inline-block;
-  width: 200px;
-  height: 200px;
-  background-color: lightgray;
+ *{
+  box-sizing: border-box;
 }
 
-.container {
-  text-align: center;
+.box {
+  width: 75%;
+  float: right;
+  padding: 15px;
+  border: 2px solid Gainsboro;
+  background-color: #e6eeff
 }
 
-.block img {
- width: 100px;
- height: 100px;
+.box img {
+ width: 40%;
+ height: 40%;
+ padding: 5px;
 }
 </style>
-<div class="container">
-  <div class="block">
-    <h3>Title 1</h3>
-    <img src="https://www.scania.org/wp-content/uploads/2018/10/article-10-2.jpg">
-    <p>Some text</p>
-  </div>
-  <div class="block">
-    <h3>Title 2</h3>
-    <img src="https://avatarfiles.alphacoders.com/121/121594.jpg">
-    <p>Some text</p>
-  </div>
-  <div class="block">
-   <h3>Title 2</h3>
-    <img src="https://i.imgur.com/8G3NXcW.gif">
-    <p>Some text</p>
-  </div>
+</head>
+<body>
+
+<div class="box">
+  <h1>Aida Lopez Serna</h1>
+  <img src="https://avatarfiles.alphacoders.com/121/121594.jpg" style="float:left">
+  <p>Quimica de formacion, profesora por vocacion y divulgadora por conviccion.</p>
+  <p><b>#CommunicationLover</b></p>
 </div>
+
+</body>
