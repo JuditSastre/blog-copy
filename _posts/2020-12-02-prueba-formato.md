@@ -51,7 +51,7 @@ La ciencia y las personas que nos dedicamos a ella investigando, divulgando o en
 <body>
 
 <div class="box">
-  <span style="font-size:1.5em"><b>Sobre la autora</b></span> 
+  <span style="font-size:1.5em"><b>Sobre la autora</b></span><br>
   <img src="https://github.com/JuditSastre/blog-copy/blob/master/assets/images/Aida1600x1200.jpg?raw=true" style="float:left">
   <h3> Aida Lopez Serna</h3>
   <p>Quimica de formacion, profesora por vocacion y divulgadora por conviccion.<br>
